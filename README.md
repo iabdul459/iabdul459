@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @iabdul459
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on some exciting and challenging web design projects that will improve my skill as well as my experience on it
-- 📫 How to reach me on Email: abdulrahaman382@gmail.com
+- Data Engineer with 3+ years of experience designing and implementing robust ETL pipelines and data warehousing solutions. Proficient in Python, SQL, Spark, AWS, DBT, and Dremio. Adept at optimizing data workflows to support analytics and business intelligence.
 
 <!---
 iabdul459/iabdul459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
